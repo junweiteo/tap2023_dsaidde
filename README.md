@@ -16,3 +16,8 @@ The total number of cases across time is visualized where we can see an increasi
 
 ## Section 6
 A presentation slide deck is created to briefly introduce what is data silos and how it is affecting the organization. Then data warehouse is explained in the slide deck to show its benefits and usefulness in an organization, generating maximum business value for the organization.
+
+
+### Additional Notes
+
+Section 3 and 5 is uncompleted because of time constraints. I am thankful for the opportunity given to complete this tech assessment and it is indeed interesting to think about the questions for this tech assessment. I believe that my willingness to learn and question the solution in the process can allow me to be an individual who strives to learn and improve in things I do. Thank you!
