@@ -1,0 +1,4 @@
+SELECT DISTINCT CustName, CustPhone, SUM(Price)
+FROM Sales
+JOIN Cars USING (CarID)
+GROUP BY 1, 2;
